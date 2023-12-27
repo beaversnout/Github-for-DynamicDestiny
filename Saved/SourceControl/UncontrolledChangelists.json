@@ -198,6 +198,19 @@
 				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Assets/DynamicDestiny_Assets/Frames/Specter__Running_8_aseprite.uasset",
 				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Testing_Assets/Action_Platformer_Assets/Sword/Textures/Sword.uasset",
 				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Testing_Assets/Action_Platformer_Assets/Sword/Sword.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Specter/BP_Specter.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Homeboi/BP_Homeboi.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/BP_ActionChar.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/GM_Action.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Specter/BP_Captain.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Homeboi/BP_Shark.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Shark/BP_Shark.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/BluePrints/Characters/Captain/BP_Captain.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Input/IMC_Action.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/PC/OneDrive/Documents/Desktop/Unreal/Github for DynamicDestiny/Content/Input/Actions/IA_Throw.uasset",
 				"C:/Users/PC/OneDrive/Documents/Unreal Projects/DynamicDestiny/Content/Maps/MAP_Debug.umap"
 			]
 		}
